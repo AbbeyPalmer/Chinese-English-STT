@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  p {
+    border: 1px solid #ccc;
+    padding: 10px;
+    min-height: 50px;
+    margin: 10px auto;
+    width: 80%;
+    background-color: #f9f9f9;
+  }
+  
